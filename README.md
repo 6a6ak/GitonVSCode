@@ -1,2 +1,1 @@
-Will add your Git user to vscode to push & pull repos
-and clone a ripo
+Will add your Git user to vscode to push, pull or clone a repos
